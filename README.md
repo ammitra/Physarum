@@ -9,3 +9,6 @@ Further work would include:
 * Species
 * Network damage and repair modeling
 * Obstacles, stimuli, hazards in the environment
+
+To Do:
+**Separate classes into their own files**
